@@ -121,5 +121,7 @@ highlight_name: true
 ---
 
   Last year, I obtained the qualification of exemption for doctoral study of integrated circuit in Southeast University, and my supervisor is Professor Huang Xiaodong. Prior to that, I studied as an undergraduate at Dalian Maritime University, where I studied underwater robot engineering projects and flexible sensor experiments under the supervision of professors Xu Minyi and Liu Zhijian.
+
   In the future, I will engage in research related to microelectronics technology and look forward to exploring and contributing to the post-Moore era.
+
   Outside of research, my interests include cycling, skateboarding, jazz and rock.
