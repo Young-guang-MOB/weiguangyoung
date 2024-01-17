@@ -39,12 +39,9 @@ education:
     - course: PhD in Integrated Circuit Engineering
       institution: Southeast University
       year: 2024
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Dalian Maritime University
+      institution: Maritime Engineering, Undergraduate Research Assistant of Marine Self-Powered System(MSPS) Lab
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
