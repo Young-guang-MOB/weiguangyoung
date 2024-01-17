@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Young wei guang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 杨伟光
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wei Guang
+last_name: Young
 
 # Status emoji
 status:
@@ -17,28 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Phd candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Southeast University
+    url: https://www.seu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:   
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Advanced semiconductor packaging
+  - Mems sensor
+  - New memristor
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Integrated Circuit Engineering
+      institution: Southeast University
+      year: 2024
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -120,5 +120,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+  Last year, I obtained the qualification of exemption for doctoral study of integrated circuit in Southeast University, and my supervisor is Professor Huang Xiaodong. Prior to that, I studied as an undergraduate at Dalian Maritime University, where I studied underwater robot engineering projects and flexible sensor experiments under the supervision of professors Xu Minyi and Liu Zhijian.
+  In the future, I will engage in research related to microelectronics technology and look forward to exploring and contributing to the post-Moore era.
+  Outside of research, my interests include cycling, skateboarding, jazz and rock.
